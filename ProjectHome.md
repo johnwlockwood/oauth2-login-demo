@@ -1,0 +1,1 @@
+This application uses the Google OAuth2 endpoint for user login. It acquires basic profile information about the user, and renders that information on a page. It stores no information about the user, and is intended to be a demo application
